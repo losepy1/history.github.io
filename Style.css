@@ -1,0 +1,133 @@
+p{
+    font-family: sans-serif;
+        
+}
+h3,h1,h2{
+    font-family: arial;
+    
+}
+.G2{
+    
+}
+.c1{
+    text-decoration: none;
+    color 
+}
+
+body{
+    background-color: gray; 
+}
+
+.n1{
+    text-decoration: none;
+    display: block;
+    color: black;
+    background-color:olive;
+    padding: 3px;
+    margin-bottom: 10px;
+    width: 220px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 6px 6px 6px  black;
+}
+.n1:hover{
+   background-color: darkgreen; 
+    width: 235px;
+    margin-left: 10px;
+    
+    
+}
+.n2{
+    text-decoration: none;
+    display: block;
+    color: white;
+    background-color:black;
+    padding: 3px;
+    margin-bottom: 10px;
+    width: 220px;
+    text-align: center;
+    border-radius: 15px;
+    
+}
+.j1{
+    text-align: justify;
+    
+}
+.s1{
+    color: red;
+}
+.c2{
+    display: block;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:100px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+    .c2:hover{
+    display: block;
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:110px;
+    padding: 10px;
+    
+}
+.c3{
+  display: block;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:170px;
+    padding: 10px   
+     
+}
+.c3:hover{
+  display: block;
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    width:190px;
+    padding: 15px 
+}
+.n2:hover{
+    background-color: darkblue;
+    margin-right: 10px;
+    width: 240px;
+}
+
+
+.n7{
+    display: block;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    width:150px;
+    padding: 5px 
+} 
+.n7:hover{
+width: 160px;
+    background-color: darkblue ;
+}
+#userCode{
+    border: groove 7px black;
+    border-radius:10px;
+}
+
+
+    
+    
+    
+    
+
+    
+    
+
+   
